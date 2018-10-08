@@ -14,7 +14,7 @@ Sample GAN implementaion that uses the MNIST data to generate synthetic handwrit
 * Install Keras in the new environment; 
     * Numpy and Matplotlib.pyplot should automatically install as dependency packages
 
-## Running the GAN
+## Training the GAN
 * Launch Jupyter Notebook from the navigator; Make sure you're in the environment where Keras is installed
 * In the Jupyter Notebook web app, start a new terminal instance
 * Once in the terminal, navigate to the directory with the gan.py file and run with the following command
