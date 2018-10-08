@@ -1,5 +1,10 @@
+Sample GAN implementaion that uses the MNIST data to generate synthetic handwritten digit images. 
 
-## Table of Contents
 
-- [Dependencies](#Dependencies)
+## Dependencies
+* Anaconda 3
+* Jupyter Notebook
+* Keras
+    * Matplotlib.pyplot
+    * Numpy
 
